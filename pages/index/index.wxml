@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <image src='../../image/indexbg.jpg' class='top'></image>
+  <view class='btn' bindtap='godetail'>立即购买</view>
+</view>
