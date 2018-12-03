@@ -58,7 +58,7 @@ Page({
   },
   godetail: function(){
     wx.navigateTo({
-      url: '../lsjindex/lsjindex',
+      url: '../lsjindex/lsjindex?img=https://pay.bxlsj.com/mobile/modules/car/images/newindex/indexbg5.png',
     })
   }
 })
